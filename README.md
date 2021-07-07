@@ -19,7 +19,7 @@ I'm a backend developer with a background in project management and data science
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   
-### Projects
+### Selected Projects
 [![](https://img.shields.io/badge/-🛒%20Little%20Rails%20Market-000?style=plastic)](https://github.com/aliyamerali/little-rails-market)<br/>
 [![](https://img.shields.io/badge/-🐶%20Adopt%20Dont%20Shop-000?style=plastic)](https://github.com/aliyamerali/adopt_dont_shop)<br/>
 [![](https://img.shields.io/badge/-🔐%20Enigma-000?style=plastic)](https://github.com/aliyamerali/enigma)<br/>
