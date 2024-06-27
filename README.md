@@ -1,6 +1,8 @@
 ## Aliya Merali (she/her)
 
-I'm a backend developer with a background in project management and data science. I'm excited by mission-oriented organizations with a focus on building accessible technologies that improve the lives of all users.
+Combining an academic background in physics and data science with a decade of experience in program and project management in tech education, I'm a software developer specializing in back end development.
+
+I'm passionate about creative and elegant problem solving, and I'm excited by mission-oriented organizations with a focus on building accessible technologies that improve the lives of all users.
 <!--
 **aliyamerali/aliyamerali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
