@@ -10,8 +10,8 @@ I'm passionate about solving complex technical problems with elegant, scalable s
 -->
 
 ### Technologies
-  ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-  ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![Typescript](https://shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=FFF&style=flat-square)
+  ![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=plastic&logo=react&logoColor=white&style=for-the-badge)
   ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
